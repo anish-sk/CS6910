@@ -1,0 +1,9 @@
+[submodule "CS6910_Assignment3"]
+	path = CS6910_Assignment3
+	url = git@github.com:abisubramanya27/CS6910_Assignment3.git
+[submodule "CS6910_Assignment2"]
+	path = CS6910_Assignment2
+	url = git@github.com:abisubramanya27/CS6910_Assignment2.git
+[submodule "CS6910_Assignment1"]
+	path = CS6910_Assignment1
+	url = git@github.com:anish-sk/CS6910_Assignment1.git
